@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import javax.swing.JOptionPane;
-public class arrow {
+public class comma_edit {
 
 	public static void main(String[] args) 
 	{
